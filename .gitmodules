@@ -1,0 +1,45 @@
+[submodule "mydht"]
+	path = mydht
+	url = https://github.com/cheme/mydht
+[submodule "mydht-base"]
+	path = mydht-base
+	url = https://github.com/cheme/mydht-base
+[submodule "mydht-basetest"]
+	path = mydht-basetest
+	url = https://github.com/cheme/mydht-basetest
+[submodule "mydht-bencode"]
+	path = mydht-bencode
+	url = https://github.com/cheme/mydht-bencode
+[submodule "mydht-bincode"]
+	path = mydht-bincode
+	url = https://github.com/cheme/mydht-bincode
+[submodule "mydht-btkad"]
+	path = mydht-btkad
+	url = https://github.com/cheme/mydht-btkad
+[submodule "mydht-filestore"]
+	path = mydht-filestore
+	url = https://github.com/cheme/mydht-filestore
+[submodule "mydht-fs"]
+	path = mydht-fs
+	url = https://github.com/cheme/mydht-fs
+[submodule "mydht-inefficientmap"]
+	path = mydht-inefficientmap
+	url = https://github.com/cheme/mydht-inefficientmap
+[submodule "mydht-openssl"]
+	path = mydht-openssl
+	url = https://github.com/cheme/mydht-openssl
+[submodule "mydht-tcp"]
+	path = mydht-tcp
+	url = https://github.com/cheme/mydht-tcp
+[submodule "mydht-tcp-loop"]
+	path = mydht-tcp-loop
+	url = https://github.com/cheme/mydht-tcp-loop
+[submodule "mydht-udp"]
+	path = mydht-udp
+	url = https://github.com/cheme/mydht-udp
+[submodule "mydht-wot"]
+	path = mydht-wot
+	url = https://github.com/cheme/mydht-wot
+[submodule "readwrite-comp"]
+	path = readwrite-comp
+	url = https://github.com/cheme/readwrite-comp
